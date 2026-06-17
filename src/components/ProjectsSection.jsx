@@ -6,8 +6,18 @@ import pic3 from "../../pic3.png";
 import pic4 from "../../pic4.png";
 import pic5 from "../../pic5.jpg";
 import pic6 from "../../pic6.png";
+import pic7 from "../../pic7.png";
 
 const projects = [
+  {
+    id: 6,
+    title: "Parks Surveillance & Analytics Platform",
+    description: "A comprehensive, end-to-end computer vision platform leveraging YOLO11 to handle custom model training, real-time multi-stream inference, parallel batch processing, and advanced spatial surveillance analytics.",
+    image: pic7,
+    tags: ["YOLO11", "Computer Vision", "Python", "Streamlit"],
+    demoUrl: "https://parks-surveillance-yolo-object-detection-system.streamlit.app",
+    githubUrl: "#",
+  },
   {
     id: 1,
     title: "AI Vehicle Monitoring System",
