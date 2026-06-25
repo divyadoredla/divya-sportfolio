@@ -24,7 +24,7 @@ const projects = [
     description: "Real-time traffic monitoring web application with auto-hybrid inference, speed estimation, and low-light optimization.",
     image: pic4,
     tags: ["Python", "YOLOv11", "Streamlit", "CLAHE", "SQLite"],
-    demoUrl: "https://ai-vehicle-monitoring-app.streamlit.app/",
+    demoUrl: "https://ai-vehicle-monitoring-app.streamlit.app",
     githubUrl: "https://github.com/divyadoredla/-AI-Vehicle-Monitoring-App#-ai-vehicle-monitoring-system",
   },
   {
